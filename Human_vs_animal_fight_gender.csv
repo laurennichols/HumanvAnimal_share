@@ -1,0 +1,31 @@
+﻿Animal,Gender,Percent
+Rat,Male,0.76
+House cat,Male,0.74
+Medium sized dog,Male,0.6
+Large dog,Male,0.31
+Kangaroo,Male,0.17
+Eagle,Male,0.38
+Grizzly bear,Male,0.07
+Wolf,Male,0.16
+Lion,Male,0.07
+Gorilla,Male,0.09
+Chimpanzee,Male,0.22
+King Cobra,Male,0.23
+Elephant,Male,0.09
+Crocodile,Male,0.1
+Goose,Male,0.71
+Rat,Female,0.68
+House cat,Female,0.64
+Medium sized dog,Female,0.39
+Large dog,Female,0.15
+Kangaroo,Female,0.11
+Eagle,Female,0.23
+Grizzly bear,Female,0.06
+Wolf,Female,0.09
+Lion,Female,0.08
+Gorilla,Female,0.08
+Chimpanzee,Female,0.12
+King Cobra,Female,0.08
+Elephant,Female,0.08
+Crocodile,Female,0.08
+Goose,Female,0.51
